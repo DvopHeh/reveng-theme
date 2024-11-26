@@ -107,8 +107,8 @@
         "CHAT_BACKGROUND": [
             "#282828", "#0A0A0A"
         ]
-    },
-    "rawColors": {
+  },
+  "rawColors": {
     "PRIMARY_100": "#F2D8FD",
     "PRIMARY_200": "#947592",
     "PRIMARY_300": "#9472D5",
@@ -129,7 +129,12 @@
     "YELLOW_300": "#B569E0",
     "GREEN_360": "#B569E0",
     "RED_400": "#FC0E61"
-    },
-    "spec": 2
+  },
+  "spec": 2,
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/DvopHeh/reveng-theme/refs/heads/main/background.jpg",
+    "alpha": 0.9,
+    "color": "#0A0A0A"
   }
 }
