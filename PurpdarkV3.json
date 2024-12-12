@@ -1,6 +1,6 @@
 {
     "name": "PurpDark (unofficial v3)",
-    "description": "Silly little theme",
+    "description": "Silly little theme based on theme by @vorlie",
     "authors": [
         {
             "name": "@Dvop",
@@ -143,6 +143,10 @@
         "CHAT_BACKGROUND": [
             "#282828",
             "#0A0A0A"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#282828",
+            "#000000"
         ]
     },
     "rawColors": {
