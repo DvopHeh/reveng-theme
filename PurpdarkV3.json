@@ -141,7 +141,9 @@
         "EXPRESSION_PICKER_BG": [
             "#000000",
             "#000000"
-        ]
+        ],
+        "PANEL_BG": [
+            "#000000"
     },
     "rawColors": {
         "PRIMARY_100": "#F2D8FD",
