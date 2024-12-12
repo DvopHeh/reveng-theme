@@ -72,8 +72,7 @@
             "#67427D"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#7D427A",
-            "#67427D"
+            "#b659a3"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#212121"
@@ -111,8 +110,7 @@
             "#0A0A0A"
         ],
         "CHANNEL_ICON": [
-            "#C6B3C5",
-            "#BEB3C6"
+            "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
             "#282828",
