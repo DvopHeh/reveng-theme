@@ -137,6 +137,9 @@
         ],
         "CARD_SECONDARY_BG": [
             "#101010"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#101010"
         ]
     },
     "rawColors": {
