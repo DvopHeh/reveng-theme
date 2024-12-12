@@ -164,8 +164,10 @@
     "plus": {
         "version": 0,
         "iconpack": "MaterialTwoTone",
-        "mentionLineColor": "#f00"
-    },
+        "mentionLineColor": "#76448a",
+        "unreadBadgeColor": "#9b59b6"
+   
+ },
     "background": {
         "blur": 0,
         "url": "https://raw.githubusercontent.com/DvopHeh/reveng-theme/refs/heads/main/background.jpg",
