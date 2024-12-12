@@ -140,6 +140,9 @@
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#101010"
+        ],
+        "ANDROID_RIPPLE": [
+            "#9B59B6"
         ]
     },
     "rawColors": {
