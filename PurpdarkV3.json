@@ -1,9 +1,13 @@
 {
     "name": "PurpDark (unofficial v3)",
-    "description": "Silly little theme",
+    "description": "Silly little theme based on Vorlie's purpdark",
     "authors": [
         {
-            "name": "@Dvop"
+            "name": "@Dvop",
+            "plus": {
+                "version": 0,
+                "iconpack": "solar"
+            }
         }
     ],
     "semanticColors": {
@@ -167,8 +171,5 @@
         "url": "https://raw.githubusercontent.com/DvopHeh/reveng-theme/refs/heads/main/background.jpg",
         "alpha": 0.9,
         "color": "#0A0A0A"
-+  "plus": {
-+    "version": 0
-+  }
     }
 }
