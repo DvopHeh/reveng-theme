@@ -1,6 +1,6 @@
 {
     "name": "PurpDark (unofficial v3)",
-    "description": "Silly little theme based on theme by @vorlie (barely)",
+    "description": "Silly little theme based on theme by @vorlie (loosely)",
     "authors": [
         {
             "name": "@Dvop"
@@ -17,7 +17,7 @@
             "#9b59b6"
         ],
         "TEXT_PRIMARY": [
-            "#9b59b6"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
             "#5C5C5C"
