@@ -166,8 +166,10 @@
         "iconpack": "MaterialTwoTone",
         "mentionLineColor": "#76448a",
         "unreadBadgeColor": "#9b59b6",
-        "AppsIcon": "#76448a",
+        "icons": { 
+           "AppsIcon": "#76448a",
         "HubIcon": "#9b59b6"
+   },
  },
     "background": {
         "blur": 0,
