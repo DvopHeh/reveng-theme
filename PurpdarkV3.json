@@ -146,6 +146,9 @@
         ],
         "BG_SURFACE_OVERLAY_TMP": [
             "#000000"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#1c2833"
         ]
     },
     "rawColors": {
