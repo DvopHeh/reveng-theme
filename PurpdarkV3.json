@@ -3,13 +3,7 @@
     "description": "Silly little theme based on theme by @vorlie",
     "authors": [
         {
-            "name": "@Dvop",
-            "spec": 2,
-            "plus": {
-                "version": 0,
-                "iconpack": "solar",
-                "mentionLineColor": "#f00"
-            }
+            "name": "@Dvop"
         }
     ],
     "semanticColors": {
@@ -174,6 +168,12 @@
         "YELLOW_300": "#B569E0",
         "GREEN_360": "#B569E0",
         "RED_400": "#FC0E61"
+    },
+    "spec": 2,
+    "plus": {
+        "version": 0,
+        "iconpack": "solar",
+        "mentionLineColor": "#f00"
     },
     "background": {
         "blur": 0,
