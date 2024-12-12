@@ -44,7 +44,7 @@
             "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0A0A0A"
+            "#212121"
         ],
         "BACKGROUND_ACCENT": [
             "#704A6E"
@@ -62,11 +62,9 @@
             "#222222"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#292929",
             "#0A0A0A"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#292929",
             "#0A0A0A"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
