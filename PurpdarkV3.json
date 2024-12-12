@@ -143,6 +143,9 @@
         ],
         "PANEL_BG": [
             "#000000"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#000000"
         ]
     },
     "rawColors": {
