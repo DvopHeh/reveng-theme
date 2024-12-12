@@ -14,30 +14,24 @@
             "#76448a"
         ],
         "TEXT_NORMAL": [
-            "#FFE8FE",
             "#F3E8FF"
         ],
         "TEXT_MUTED": [
-            "#5C5C5C",
-            "#5E5E5E"
+            "#5C5C5C"
         ],
         "TEXT_LINK": [
-            "#EE8EE9",
             "#C48EEE"
         ],
         "INTERACTIVE_NORMAL": [
             "#9b59b6"
         ],
         "INTERACTIVE_HOVER": [
-            "#B988BC",
             "#B988BC"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FDC5FA",
             "#E1C5FD"
         ],
         "INTERACTIVE_MUTED": [
-            "#5F5160",
             "#5F5160"
         ],
         "BACKGROUND_PRIMARY": [
@@ -50,27 +44,21 @@
             "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#282828",
             "#0A0A0A"
         ],
         "BACKGROUND_ACCENT": [
-            "#704A6E",
-            "#634A70"
+            "#704A6E"
         ],
         "BACKGROUND_FLOATING": [
-            "#222222",
             "#222222"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#222222",
             "#222222"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#222222",
             "#222222"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#222222",
             "#222222"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
