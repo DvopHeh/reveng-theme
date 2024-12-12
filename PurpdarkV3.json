@@ -167,7 +167,9 @@
         "mentionLineColor": "#76448a",
         "unreadBadgeColor": "#9b59b6",
         "icons": {
-            "AppsIcon": "#76448a",
+            "AppsIcon": [
+                "#76448a"
+            ],
             "HubIcon": "#9b59b6"
         }
     },
