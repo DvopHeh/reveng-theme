@@ -145,7 +145,11 @@
             "#0A0A0A"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#282828",
+            "#000000",
+            "#000000"
+        ],
+        "EXPRESSION_PICKER_BG": [
+            "#000000",
             "#000000"
         ]
     },
