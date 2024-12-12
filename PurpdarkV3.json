@@ -4,7 +4,8 @@
     "authors": [
         {
             "name": "@Dvop",
-            "plus": {
+            "spec": 2,
+"plus": {
                 "version": 0,
                 "iconpack": "solar",
                 "mentionLineColor": "#f00"
@@ -174,7 +175,6 @@
         "GREEN_360": "#B569E0",
         "RED_400": "#FC0E61"
     },
-    "spec": 2,
     "background": {
         "blur": 0,
         "url": "https://raw.githubusercontent.com/DvopHeh/reveng-theme/refs/heads/main/background.jpg",
