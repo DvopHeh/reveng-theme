@@ -159,6 +159,9 @@
         ],
         "BG_SURFACE_RAISED": [
             "#101010"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#00000090"
         ]
     },
     "rawColors": {
