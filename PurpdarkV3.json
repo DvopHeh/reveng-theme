@@ -161,7 +161,7 @@
             "#101010"
         ],
         "BACKGROUND_MENTIONED": [
-            "#00000090"
+            "#29292921"
         ]
     },
     "rawColors": {
@@ -209,6 +209,6 @@
         "blur": 0,
         "url": "https://raw.githubusercontent.com/DvopHeh/reveng-theme/refs/heads/main/background.jpg",
         "alpha": 0.9,
-        "color": "#000000"
+        "color": "#00000000"
     }
 }
