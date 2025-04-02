@@ -153,6 +153,12 @@
         ],
         "BORDER_STRONG": [
             "#782E96"
+        ],
+        "THREAD_CHANNEL_SPINE": [
+            "#63277A"
+        ],
+        "BG_SURFACE_RAISED": [
+            "#101010"
         ]
     },
     "rawColors": {
@@ -179,7 +185,9 @@
         "PLUM_22": "#000000",
         "PLUM_1": "#9b59b6",
         "PLUM_10": "#9b59b6",
-        "BLACK_500": "#0A0A0A"
+        "BLACK_500": "#0A0A0A",
+        "PLUM_18": "#0A0A0A",
+        "PLUM_6": "#63277A"
     },
     "spec": 2,
     "plus": {
