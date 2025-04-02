@@ -8,13 +8,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#9b59b6"
+            "#63277A"
         ],
         "HEADER_SECONDARY": [
-            "#76448a"
+            "#63277A"
         ],
         "TEXT_NORMAL": [
-            "#9b59b6"
+            "#FFFFFF"
         ],
         "TEXT_PRIMARY": [
             "#ffffff"
@@ -26,13 +26,13 @@
             "#C48EEE"
         ],
         "INTERACTIVE_NORMAL": [
-            "#9b59b6"
+            "#FFFFFF"
         ],
         "INTERACTIVE_HOVER": [
             "#B988BC"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#E1C5FD"
+            "#8832DD"
         ],
         "INTERACTIVE_MUTED": [
             "#5F5160"
@@ -50,10 +50,10 @@
             "#212121"
         ],
         "BACKGROUND_ACCENT": [
-            "#704A6E"
+            "#8832DD"
         ],
         "BACKGROUND_FLOATING": [
-            "#222222"
+            "#0A0A0A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#222222"
@@ -147,6 +147,12 @@
         ],
         "EMBED_BACKGROUND": [
             "#101010"
+        ],
+        "BG_BACKDROP": [
+            "#AAAAAA00"
+        ],
+        "BORDER_STRONG": [
+            "#782E96"
         ]
     },
     "rawColors": {
@@ -154,8 +160,8 @@
         "PRIMARY_200": "#947592",
         "PRIMARY_300": "#9472D5",
         "PRIMARY_360": "#C272F0",
-        "PRIMARY_400": "#7114EE",
-        "PRIMARY_500": "#5F3A70",
+        "PRIMARY_400": "#FFFFFF",
+        "PRIMARY_500": "#FFFFFF",
         "PRIMARY_600": "#0A0A0A",
         "PRIMARY_630": "#2F2F2F",
         "PRIMARY_660": "#2F2F2F",
@@ -165,14 +171,15 @@
         "BRAND_360": "#BF96D0",
         "BRAND_500": "#866195",
         "BRAND_560": "#BF96D0",
-        "WHITE_500": "#9b59b6",
+        "WHITE_500": "#FFFFFF",
         "YELLOW_300": "#B569E0",
         "GREEN_360": "#B569E0",
         "RED_400": "#FC0E61",
         "PLUM_20": "#000000",
         "PLUM_22": "#000000",
         "PLUM_1": "#9b59b6",
-        "PLUM_10": "#9b59b6"
+        "PLUM_10": "#9b59b6",
+        "BLACK_500": "#0A0A0A"
     },
     "spec": 2,
     "plus": {
