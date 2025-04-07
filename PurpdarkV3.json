@@ -162,6 +162,9 @@
         ],
         "BACKGROUND_MENTIONED": [
             "#29292921"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#181616CF"
         ]
     },
     "rawColors": {
@@ -173,7 +176,7 @@
         "PRIMARY_500": "#FFFFFF",
         "PRIMARY_600": "#0A0A0A",
         "PRIMARY_630": "#2F2F2F",
-        "PRIMARY_660": "#2F2F2F",
+        "PRIMARY_660": "#000000",
         "PRIMARY_700": "#0A0A0A",
         "PRIMARY_800": "#0A0A0A",
         "BRAND_260": "#FFFFFF",
@@ -190,7 +193,9 @@
         "PLUM_10": "#9b59b6",
         "BLACK_500": "#0A0A0A",
         "PLUM_18": "#0A0A0A",
-        "PLUM_6": "#63277A"
+        "PLUM_6": "#63277A",
+        "PLUM_14": "#0000009D",
+        "BLUE_345": "#63277A"
     },
     "spec": 2,
     "plus": {
