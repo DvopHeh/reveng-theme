@@ -149,11 +149,7 @@
             "#101010"
         ],
         "BG_BACKDROP": [
-            "#AAAAAA00"
-        ],
-        "BORDER_STRONG": [
-            "#782E96"
-        ],
+            "#AAAAAA00"Purpdarkbg2.json
         "THREAD_CHANNEL_SPINE": [
             "#63277A"
         ],
@@ -212,7 +208,7 @@
     },
     "background": {
         "blur": 0,
-        "url": "https://raw.githubusercontent.com/DvopHeh/reveng-theme/refs/heads/main/background.jpg",
+        "url": "https://raw.githubusercontent.com/DvopHeh/reveng-theme/refs/heads/main/bg3.jpg",
         "alpha": 0.9,
         "color": "#00000000"
     }
