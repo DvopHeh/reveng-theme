@@ -207,10 +207,10 @@
             "AppsIcon": [
                 "#76448a"
             ],
-            "HubIcon": "#9b59b6"
+            "HubIcon": "#9b59b6",
             "app_installed_check": "#f00",
             "app_installed_check__overlay": "#00f"
-        }
+        },
            "customOverlays": true
     },
     "background": {
