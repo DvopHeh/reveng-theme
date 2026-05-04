@@ -1,0 +1,168 @@
+{
+    "name": "Lain Lain Lain Lain Lain",
+    "description": "Let's all love Lain.",
+    "authors": [
+        {
+            "name": "@Dvop"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_BASE_LOWEST": [
+            "#261719"
+        ],
+        "BACKGROUND_BASE_LOWER": [
+            "#2d1b1e"
+        ],
+        "BACKGROUND_BASE_LOW": [
+            "#3f272a"
+        ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#3f272a"
+        ],
+        "BACKGROUND_SURFACE_HIGHEST": [
+            "#4a2e32"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#3f272a"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#e46779"
+        ],
+        "BACKGROUND_MOD_NORMAL": [
+            "#3f272a"
+        ],
+        "BACKGROUND_MOD_SUBTLE": [
+            "#2d1b1e"
+        ],
+        "BACKGROUND_MOD_STRONG": [
+            "#4a2e32"
+        ],
+        "BACKGROUND_MOD_MUTED": [
+            "#3a2427"
+        ],
+        "BACKGROUND_FEEDBACK_INFO": [
+            "#d6885c"
+        ],
+        "BACKGROUND_FEEDBACK_POSITIVE": [
+            "#ccbd66"
+        ],
+        "BACKGROUND_FEEDBACK_WARNING": [
+            "#d6885c"
+        ],
+        "BACKGROUND_FEEDBACK_CRITICAL": [
+            "#fd4663"
+        ],
+        "BACKGROUND_BRAND": [
+            "#e46779"
+        ],
+        "TEXT_NORMAL": [
+            "#f3f2f2"
+        ],
+        "TEXT_MUTED": [
+            "#b6afb0"
+        ],
+        "TEXT_PRIMARY": [
+            "#f3f2f2"
+        ],
+        "TEXT_SECONDARY": [
+            "#b6afb0"
+        ],
+        "TEXT_LINK": [
+            "#d6885c"
+        ],
+        "TEXT_BRAND": [
+            "#e46779"
+        ],
+        "HEADER_PRIMARY": [
+            "#f3f2f2"
+        ],
+        "HEADER_SECONDARY": [
+            "#b6afb0"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#b6afb0"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#ccbd66"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#f3f2f2"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#766164"
+        ],
+        "BORDER_NORMAL": [
+            "#766164"
+        ],
+        "BORDER_SUBTLE": [
+            "#3f272a"
+        ],
+        "APP_FRAME_BORDER": [
+            "#766164"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#3f272a"
+        ],
+        "CHAT_BACKGROUND": [
+            "#261719"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#3f272a"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#2d1b1e"
+        ],
+        "STATUS_DANGER": [
+            "#fd4663"
+        ],
+        "STATUS_WARNING": [
+            "#d6885c"
+        ],
+        "STATUS_POSITIVE": [
+            "#ccbd66"
+        ],
+        "STATUS_BRAND": [
+            "#e46779"
+        ],
+        "BUTTON_FILLED_BRAND_BACKGROUND": [
+            "#e46779"
+        ],
+        "BUTTON_FILLED_BRAND_TEXT": [
+            "#25181a"
+        ],
+        "BUTTON_OUTLINE_BRAND_TEXT": [
+            "#e46779"
+        ],
+        "ANDROID_NAVIGATION_BAR_BACKGROUND": [
+            "#261719"
+        ],
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#261719"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#f3f2f2",
+        "PRIMARY_200": "#d9d3d4",
+        "PRIMARY_300": "#b6afb0",
+        "PRIMARY_400": "#918487",
+        "PRIMARY_500": "#766164",
+        "PRIMARY_600": "#5b4448",
+        "PRIMARY_700": "#3f272a",
+        "PRIMARY_800": "#2d1b1e",
+        "PRIMARY_900": "#261719",
+        "BRAND_260": "#f0909c",
+        "BRAND_360": "#e46779",
+        "BRAND_500": "#d95d70",
+        "RED_400": "#fd4663",
+        "YELLOW_300": "#ccbd66",
+        "ORANGE_345": "#d6885c",
+        "WHITE": "#f3f2f2",
+        "BLACK": "#25181a"
+    },
+    "background": {
+        "blur": 0.12,
+        "url": "https://github.com/DvopHeh/reveng-theme/blob/main/wp.jpg?raw=true",
+        "alpha": 0.42
+    },
+    "spec": 2
+}
